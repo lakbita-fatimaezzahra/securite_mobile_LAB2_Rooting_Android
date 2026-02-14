@@ -1,4 +1,19 @@
 # securite_mobile_LAB2_Rooting_Android
+Traçabilité : fiche environnement
+
+Date/auteur:lakbita fatimaezzahra 14-02-2026
+
+Support AVD (Android Virtual Device – environnement de laboratoire): Android Emulator Pixel 6 
+
+Version Android/API: Android 16 (API 36)
+
+App + version
+
+Objectif : Comprendre rooting et impacts sur le système et les mécanismes d’intégrité
+
+Données : Fictives (aucune donnée réelle ou personnelle)
+
+Réseau : Test (réseau isolé, aucune connexion internet réelle)
 
  #Étape 1 : Rooter l'AVD
  
