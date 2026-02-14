@@ -59,6 +59,43 @@ clique button *previous*
 Étape 5 : Définir 3 scénarios simples
 
 
+Étape 6 : Lire Android Security 
+
+Android utilise plusieurs couches de sécurité : chaque application est isolée dans un sandbox, empêchant l’accès aux données des autres apps. Le modèle de permissions contrôle l’accès aux ressources sensibles comme le micro, la caméra ou les fichiers. L’intégrité du système protège contre les modifications non autorisées. Le sandboxing, c’est comme mettre chaque appli dans sa propre salle de classe fermée. Les permissions, c’est demander l’autorisation au professeur avant d’utiliser un équipement. L’intégrité système, c’est verrouiller le bâtiment entier pour sécuriser sa structure.
+
+
+Étape 7 : Verified Boot (idée générale + check AVD)
+
+Objectif principal : Garantir que le système qui démarre est celui prévu par le fabricant, sans modifications malveillantes.
+
+Concept simplifié : Verified Boot est comme un système d’alarme qui vérifie si quelqu’un a changé les serrures ou portes de votre maison. Si oui, il alerte ou refuse de démarrer.
+
+Chain of trust (2 lignes) : Chaque composant vérifie l’authenticité du suivant avant de lui faire confiance. Comme une chaîne de gardiens où chacun vérifie l’identité du suivant.
+
+Pourquoi c’est critique : Si le démarrage est compromis, toutes les protections suivantes peuvent être contournées, comme une forteresse dont la porte principale serait ouverte.
+
+Commande pour vérifier sur AVD :
+<img width="958" height="210" alt="image" src="https://github.com/user-attachments/assets/f10310fd-0af7-436d-81b0-15b4c7bbe207" />
+
+Étape 8 : AVB (Android Verified Boot)
+
+Android Verified Boot (AVB) ajoute une vérification d’intégrité moderne à chaque démarrage, garantissant que les composants système n’ont pas été modifiés.
+Il protège également contre le rollback, empêchant le retour à une version plus ancienne vulnérable du système.
+Ainsi, AVB renforce la sécurité globale et la confiance dans le démarrage du dispositif.
+
+Étape 9 : Définir le rooting 
+
+Le rooting permet d’obtenir des privilèges super-utilisateur sur Android, donnant un contrôle complet sur le système.
+Cela modifie les protections et la confiance du système, ce qui peut compromettre la sécurité si mal utilisé.
+Utile en laboratoire pour observer certains comportements, il reste risqué, et nécessite isolement, traçabilité et possibilité de remise à zéro.
+Le rooting, c’est comme avoir un passe-partout pour toutes les portes d’un bâtiment : très pratique pour le personnel de maintenance, mais dangereux si le passe tombe entre de mauvaises mains.
+
+Étape 10 : Intérêt en laboratoire (non opérationnel)
+
+En labo, un environnement privilégié peut aider à : voir des données normalement invisibles, observer comment l’application fonctionne à bas niveau, et tester la sécurité du stockage.
+Exemple : Avec les droits root, on peut vérifier si une application chiffre correctement ses données sensibles.
+ #À faire uniquement en labo autorisé.
+Le rooting peut être interdit par le fabricant ou la loi, donc toujours avoir l’autorisation avant de tester.
 
 
 
