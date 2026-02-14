@@ -48,6 +48,16 @@ Vérifier que l'application s'ouvre et qu'un scénario simple est réalisable. N
 
 <img width="513" height="122" alt="image" src="https://github.com/user-attachments/assets/53c65a2c-47d6-4638-a6cc-7fe103f82b29" />
 
+clique button *next*
+
+<img width="527" height="809" alt="image" src="https://github.com/user-attachments/assets/3e0ebdd3-751e-471c-90e7-0258d79fce85" />
+ 
+clique button *previous*
+
+<img width="348" height="767" alt="image" src="https://github.com/user-attachments/assets/e5e9017f-0f3b-455c-bf51-c87f5dd92c5e" />
+
+Étape 5 : Définir 3 scénarios simples
+
 
 
 
