@@ -64,12 +64,31 @@ Vérifier que l'application s'ouvre et qu'un scénario simple est réalisable. N
 
 <img width="513" height="122" alt="image" src="https://github.com/user-attachments/assets/53c65a2c-47d6-4638-a6cc-7fe103f82b29" />
 
-clique button *next*
+Étape 5 : Définir 3 scénarios simples
 
-<img width="527" height="809" alt="image" src="https://github.com/user-attachments/assets/3e0ebdd3-751e-471c-90e7-0258d79fce85" />
+*Ouvrir l'écran d'accueil*
+
+<img width="366" height="771" alt="image" src="https://github.com/user-attachments/assets/b2f32549-f093-4052-96de-7086e77803aa" />
+
  
-clique button *previous*
+*Rechercher un item*
 
-<img width="348" height="767" alt="image" src="https://github.com/user-attachments/assets/e5e9017f-0f3b-455c-bf51-c87f5dd92c5e" />
+<img width="364" height="767" alt="image" src="https://github.com/user-attachments/assets/99b77ee6-8e21-498f-b1d4-c409bb6d27f5" />
+
+*Ouvrir un détail (fiche produit/profil)*
+
+<img width="377" height="770" alt="image" src="https://github.com/user-attachments/assets/039f20be-9e9c-448f-b6b6-9e5eab69f7e0" />
+
+<img width="375" height="562" alt="image" src="https://github.com/user-attachments/assets/ffb6cdd9-dc17-4ed6-9b44-3cb01c8b1c62" />
+
+Étape 7 : Verified Boot (idée générale + check AVD)
+
+<img width="1497" height="120" alt="image" src="https://github.com/user-attachments/assets/fe59bfc1-a054-4753-aa23-b51c61e840ad" />
+
+
+
+
+
+
 
 
