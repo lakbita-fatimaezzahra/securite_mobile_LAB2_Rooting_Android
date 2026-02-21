@@ -57,7 +57,8 @@ Réseau : Test (réseau isolé, aucune connexion internet réelle)
 
 Installer et lancer l'app de test
 
-<img width="1504" height="126" alt="image" src="https://github.com/user-attachments/assets/337fd166-64e5-489a-ab41-aea3871f65dc" />
+<img width="1678" height="175" alt="image" src="https://github.com/user-attachments/assets/b2febeab-60ed-4711-8dc8-714e338ea51c" />
+
 
 Vérifier que l'application s'ouvre et qu'un scénario simple est réalisable. Noter la version de l'application dans le rapport.
 
